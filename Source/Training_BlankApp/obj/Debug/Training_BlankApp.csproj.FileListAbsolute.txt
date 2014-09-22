@@ -1,0 +1,12 @@
+D:\Training_BlankApp\Training_BlankApp\bin\Training_BlankApp.dll.config
+D:\Training_BlankApp\Training_BlankApp\bin\Training_BlankApp.dll
+D:\Training_BlankApp\Training_BlankApp\bin\Training_BlankApp.pdb
+D:\Training_BlankApp\Training_BlankApp\obj\Debug\Training_BlankApp.csprojResolveAssemblyReference.cache
+D:\Training_BlankApp\Training_BlankApp\obj\Debug\Training_BlankApp.dll
+D:\Training_BlankApp\Training_BlankApp\obj\Debug\Training_BlankApp.pdb
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\bin\Training_BlankApp.dll.config
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\bin\Training_BlankApp.dll
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\bin\Training_BlankApp.pdb
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\obj\Debug\Training_BlankApp.csprojResolveAssemblyReference.cache
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\obj\Debug\Training_BlankApp.dll
+D:\GitHub_Root\AngularJS_Learn_SST.git\Source\Training_BlankApp\obj\Debug\Training_BlankApp.pdb
